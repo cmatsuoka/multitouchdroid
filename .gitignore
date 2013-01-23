@@ -9,12 +9,11 @@
 *.class
 
 # generated files
-bin/
-gen/
+MultitouchDroid/bin/
+MultitouchDroid/gen/
+MultitouchDroid/assets
+MultitouchDroid/libs
 
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Eclipse project files
-.classpath
-.project
